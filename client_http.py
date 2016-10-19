@@ -1,3 +1,7 @@
+############################################################################
+# This idea is emulated from the book, Programming Python by Mark Lutz
+############################################################################
+
 import httplib
 import sys
 
